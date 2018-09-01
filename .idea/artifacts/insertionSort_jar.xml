@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="insertionSort:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/insertionSort.jar</output-path>
+    <root id="archive" name="insertionSort.jar">
+      <element id="module-output" name="insertionSort" />
+    </root>
+  </artifact>
+</component>
